@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Raju Nandi and Welcome @nanditechbytes
+- 🧑🏻‍💻 I am a senior Cloud and Devops Engineer
+- - 👀 I’m interested in sharing knowledge on Cloud and Devops
+- 📫 How to reach me - Email me on nanditechbytes@gmail.com
+- 😄 Pronouns: Mr
+- ⚡ Fun fact: As a Senior Cloud & DevOps Engineer, I automate clouds to make it rain innovations! 🌧️🚀
